@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samannan20
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and ethical hacking
-- 💞️ I’m looking to collaborate on programs
+- 🌱 I’m currently learning python, c++ and pentesting
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : samuelannan893@gmail.com
 
 <!---
