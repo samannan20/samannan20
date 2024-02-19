@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samannan20
-- 👀 I’m interested in programming
+- 👀 I try to solve random problems with codes, if I can't code the solution I just learn how to😁
 - 🌱 I’m currently learning python, c++, java, R, HTML, CSS, JS and cybersecurity
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects, and have some bromance with other coders around the globe.
 - 📫 How to reach me : samuelannan893@gmail.com
 
 <!---
